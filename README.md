@@ -9,7 +9,7 @@
 
 ### +
 
-Comencé desde cero aprendiendo, a través de las materias propuestas por la carrera y un poco de propia investigación, sobre programación. Fue (y es) todo un desafío personal, y a pesar de no conocer mucho, hasta el momento no me fue tan mal. 
+Comencé desde cero aprendiendo, a través de las materias propuestas por la carrera y un poco de propia investigación, sobre programación. Fue (y es) todo un desafío personal. A pesar de no conocer mucho, hasta el momento, no me fue tan mal y me gusta.
 Mi oficio no tiene relación alguna con la carrera, o quizás no tanto, puesto que me dedico a coser y confeccionar indumentaria; y al final las tecnologías digitales están presentes de alguna u otra forma en todos los espacios.
 
 Espero en algún futuro poder participar en un proyecto que involucre ambos lados. Y por supuesto, también tener oportunidades laborales que me brinden experiencia. Mientras tanto, sigo aprendiendo y conozco nuevas herramientas.
